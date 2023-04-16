@@ -1,0 +1,7 @@
+x# common
+lib/
+tmp/
+temp/
+
+# neovim
+*.swp
